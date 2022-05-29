@@ -1,3 +1,6 @@
+// -------------------- FaceMesh에 필요한 셋팅인 detection 선언 및 정의 --------------------
+// --------------------------------------------------------------------------------
+
 let detections = [];
 
 const videoElement = document.getElementById('video');
