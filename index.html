@@ -2,19 +2,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!-- utf-8로 인코딩 -->
   <meta charset="utf-8">
+<!-- 
+mediapipe api 가져오기 
+	1. camera_utils/camera_utils.js
+	2. control_utils/control_utils.js
+	3. drawing_utils/drawing_utils.js
+	4. face_mesh/face_mesh.js
+-->
   <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@mediapipe/face_mesh/face_mesh.js" crossorigin="anonymous"></script>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+<!-- sketch.js와 detection.js 가져오기 -->
   <script defer language="javascript" type="text/javascript" src="sketch.js"></script>
   <script defer language="javascript" type="text/javascript" src="detection.js"></script>
+<!-- style.css 가져오기 -->
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
+<!-- body에 video 삽입 -->
   <video id="video"></video>
 </body>
 </html>
