@@ -59,18 +59,26 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 
 
 # 결과물
+## 프로그램 시현 모습
+### With FaceMesh
+![withFaceMesh](https://user-images.githubusercontent.com/75259783/170848006-1dad31d2-d990-4b6d-b18a-fcff19d0c76d.jpg)
+### Without FaceMesh
+![withoutFaceMesh](https://user-images.githubusercontent.com/75259783/170848008-1785dbc0-e105-44a6-988a-059778dd5b91.jpg)
 
-
-# 예상 결과물
+## s를 눌러 캡쳐 과정
+### s 누를 시 화면
+![Ctrl-S page](https://user-images.githubusercontent.com/75259783/170848004-147cc4a7-1e29-4994-a3b8-4cf89b166c43.jpg)
+### 실제 스크린샷
+![screenShot](https://user-images.githubusercontent.com/75259783/170848005-71df69c3-863f-41f3-891a-6dfc72e60cc0.png)
 
 # 기대효과 및 활용방안
-
 사용자의 가상 아바타를 생성해 유튜브 AR플랫폼에서의 소통 시 활용됨
 AR을 활용한 게임에서의 사용자의 가상 얼굴 표현
 소셜 미디어 플랫폼 기반 비디오 스트리밍 서비스
 가면 꾸미기 같은 게임 구현 가능
 
 # 수행일정(도표)
+![수행일정](https://user-images.githubusercontent.com/75259783/170848074-f6273938-db89-4f4f-82e3-6c79fe1e141a.png)
 
 # 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
