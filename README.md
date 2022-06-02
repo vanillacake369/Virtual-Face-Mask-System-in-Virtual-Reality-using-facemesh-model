@@ -72,10 +72,10 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 ![screenShot](https://user-images.githubusercontent.com/75259783/170848005-71df69c3-863f-41f3-891a-6dfc72e60cc0.png)
 
 # 5. 기대효과 및 활용방안
-사용자의 가상 아바타를 생성해 유튜브 AR플랫폼에서의 소통 시 활용됨
-AR을 활용한 게임에서의 사용자의 가상 얼굴 표현
-소셜 미디어 플랫폼 기반 비디오 스트리밍 서비스
-가면 꾸미기 같은 게임 구현 가능
+- 사용자의 가상 아바타를 생성해 유튜브 AR플랫폼에서의 소통 시 활용됨
+- AR을 활용한 게임에서의 사용자의 가상 얼굴 표현
+- 소셜 미디어 플랫폼 기반 비디오 스트리밍 서비스
+- 가면 꾸미기 같은 게임 구현 가능
 
 # 6. 수행일정(도표)
 ![수행일정](https://user-images.githubusercontent.com/75259783/170848074-f6273938-db89-4f4f-82e3-6c79fe1e141a.png)
