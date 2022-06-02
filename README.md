@@ -82,8 +82,8 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 
 # 7. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
-[1] 기운 저, p5 자바스크립트와 ml5 머신러닝라이브러리, 2020년 12월 15일
-[2] Ivan Grishchenko, Artsiom Ablavatski, Yury Kartynnik, Karthik Raveendran, Matthias Grundmann, “Attention Mesh: High-fidelity Face Mesh Prediction in Real-time” Computer Vision and Pattern Recognition of Cornell University, 2020
-[3]Generating 3D Faces using Convolutional Mesh Autoencoders. https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html. (accessed March 78, 2022).
-[4]MediaPipe Face Mesh.  https://google.github.io/mediapipe/solutions/face_mesh.html.  (accessed March 18, 2022).
+- [1] 기운 저, p5 자바스크립트와 ml5 머신러닝라이브러리, 2020년 12월 15일
+- [2] Ivan Grishchenko, Artsiom Ablavatski, Yury Kartynnik, Karthik Raveendran, Matthias Grundmann, “Attention Mesh: High-fidelity Face Mesh Prediction in Real-time” Computer Vision and Pattern Recognition of Cornell University, 2020
+- [3]Generating 3D Faces using Convolutional Mesh Autoencoders. https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html. (accessed March 78, 2022).
+- [4]MediaPipe Face Mesh.  https://google.github.io/mediapipe/solutions/face_mesh.html.  (accessed March 18, 2022).
 
