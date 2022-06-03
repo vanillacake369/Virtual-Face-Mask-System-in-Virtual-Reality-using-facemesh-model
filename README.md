@@ -92,4 +92,4 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 
 # 8. 유튜브 영상
 
-[![2022 C++ 5팀 팀프로젝트](https://youtu.be/fNhDcDRrdko.jpg)](https://youtu.be/fNhDcDRrdko=0s) 
+[![2022 C++ 5팀 팀프로젝트](http://img.youtube.com/vi/fNhDcDRrdko.jpg)](https://youtu.be/fNhDcDRrdko=0s) 
