@@ -1,7 +1,9 @@
 # Virtual-Face-Mask-System-in-Virtual-Reality-using-facemesh-model
  사용자의 얼굴에 AR을 활용한 가상 모델을 나타낼 수 있게 구현한 프로그램입니다.
 
-# [Fullscreen of Program](https://editor.p5js.org/lonelynight1026/full/JVLzczC08 "페이스메쉬모델")
+# 실제 프로그램 실행해보기
+[여기를 클릭하면 웹 상에서 실제 프로그램을 실행하실 수 있습니다~ :)](https://editor.p5js.org/lonelynight1026/full/JVLzczC08 "페이스메쉬모델")
+***대신 웹 캠을 준비해주셔야 해요~!***
 
 # 과제명
 얼굴 그물망모델링을 활용한 가상현실 가면
@@ -87,3 +89,5 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 - [3]Generating 3D Faces using Convolutional Mesh Autoencoders. https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html. (accessed March 78, 2022).
 - [4]MediaPipe Face Mesh.  https://google.github.io/mediapipe/solutions/face_mesh.html.  (accessed March 18, 2022).
 
+$ 8. 유튜브 영상
+[![2022 C++ 5팀 팀프로젝트](https://youtu.be/fNhDcDRrdko.jpg)](https://youtu.be/fNhDcDRrdko=0s) 
