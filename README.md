@@ -89,5 +89,6 @@ Virtual Face Mask System in Virtual Reality using facemesh model
 - [3]Generating 3D Faces using Convolutional Mesh Autoencoders. https://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html. (accessed March 78, 2022).
 - [4]MediaPipe Face Mesh.  https://google.github.io/mediapipe/solutions/face_mesh.html.  (accessed March 18, 2022).
 
-$ 8. 유튜브 영상
+# 8. 유튜브 영상
+
 [![2022 C++ 5팀 팀프로젝트](https://youtu.be/fNhDcDRrdko.jpg)](https://youtu.be/fNhDcDRrdko=0s) 
