@@ -1,7 +1,7 @@
 # Virtual-Face-Mask-System-in-Virtual-Reality-using-facemesh-model
  사용자의 얼굴에 AR을 활용한 가상 모델을 나타낼 수 있게 구현한 프로그램입니다.
 
-[![2022 C++ 5팀 팀프로젝트](http://img.youtube.com/vi/fNhDcDRrdko.jpg)](https://youtu.be/fNhDcDRrdko?t=0s) 
+[![2022 C++ 5팀 팀프로젝트](http://img.youtube.com/vi/fNhDcDRrdko/0.jpg)](https://youtu.be/fNhDcDRrdko?t=0s) 
 
 # 실제 프로그램 실행해보기
 [여기를 클릭하면 웹 상에서 실제 프로그램을 실행하실 수 있습니다~ :)](https://editor.p5js.org/lonelynight1026/full/JVLzczC08 "페이스메쉬모델")
