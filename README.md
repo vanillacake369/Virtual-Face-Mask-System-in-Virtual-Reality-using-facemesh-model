@@ -1,7 +1,7 @@
-# Virtual-Face-Mask-System-in-Virtual-Reality-using-facemesh-model
+# Virtual-Face-Mask-System-in-Virtual-Reality-using-facemesh-model 🎭
  사용자의 얼굴에 AR을 활용한 가상 모델을 나타낼 수 있게 구현한 프로그램입니다. 
 
-# 실제 프로그램 실행해보기
+# 실제 프로그램 실행해보기  🖥️
 [여기를 클릭하면 웹 상에서 실제 프로그램을 실행하실 수 있습니다~ :)](https://editor.p5js.org/lonelynight1026/full/JVLzczC08 "페이스메쉬모델")
 
 ***대신 웹 캠을 준비해주셔야 해요~!***
@@ -11,7 +11,7 @@
 얼굴 그물망모델링을 활용한 가상현실 가면
 Virtual Face Mask System in Virtual Reality using facemesh model
 
-# 팀명 
+# 팀명 👥
 블루칩 Blue Chip
 
 # 팀장 및 참여학생 담당업무
